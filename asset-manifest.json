@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://gundappapatil.github.io/csb-ei8szj/static/css/main.599c3a8d.chunk.css",
+    "main.js": "https://gundappapatil.github.io/csb-ei8szj/static/js/main.5e6cfb8a.chunk.js",
+    "main.js.map": "https://gundappapatil.github.io/csb-ei8szj/static/js/main.5e6cfb8a.chunk.js.map",
+    "runtime-main.js": "https://gundappapatil.github.io/csb-ei8szj/static/js/runtime-main.be6f20a4.js",
+    "runtime-main.js.map": "https://gundappapatil.github.io/csb-ei8szj/static/js/runtime-main.be6f20a4.js.map",
+    "static/css/2.f26e749f.chunk.css": "https://gundappapatil.github.io/csb-ei8szj/static/css/2.f26e749f.chunk.css",
+    "static/js/2.804837e0.chunk.js": "https://gundappapatil.github.io/csb-ei8szj/static/js/2.804837e0.chunk.js",
+    "static/js/2.804837e0.chunk.js.map": "https://gundappapatil.github.io/csb-ei8szj/static/js/2.804837e0.chunk.js.map",
+    "index.html": "https://gundappapatil.github.io/csb-ei8szj/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "https://gundappapatil.github.io/csb-ei8szj/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.599c3a8d.chunk.css.map": "https://gundappapatil.github.io/csb-ei8szj/static/css/main.599c3a8d.chunk.css.map",
+    "static/js/2.804837e0.chunk.js.LICENSE.txt": "https://gundappapatil.github.io/csb-ei8szj/static/js/2.804837e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be6f20a4.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.804837e0.chunk.js",
+    "static/css/main.599c3a8d.chunk.css",
+    "static/js/main.5e6cfb8a.chunk.js"
+  ]
+}
